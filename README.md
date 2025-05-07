@@ -1,4 +1,1 @@
-# Preview
-![](docs/screenshot.png)
-
 
